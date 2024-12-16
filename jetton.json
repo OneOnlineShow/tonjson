@@ -1,7 +1,8 @@
 {
-  "name": "Sample Jetton",
-  "description": "Sample of Jetton",
-  "symbol": "JTN",
+  "name": "Jetton Name",
+  "description": "Jetton Desc",
+  "symbol": "LOL",
   "decimals": 9,
-  "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
+  "image": "https://img.freepik.com/free-vector/vibrant-blue-butterfly-illustration_1308-164689.jpg",
+  "total_supply": 1000000
 }
