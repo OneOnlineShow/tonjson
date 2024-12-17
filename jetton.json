@@ -3,5 +3,13 @@
   "description": "Suck it, lick it, enjoy!",
   "symbol": "$MAJOR",
   "decimals": 9,
-  "image": "https://www.shutterstock.com/image-vector/human-balls-penis-christmas-cap-600nw-2255402103.jpg"
+  "image": "https://raw.githubusercontent.com/OneOnlineShow/tonjson/refs/heads/main/logo.png",
+  "social": [
+    "https://t.me/major",
+    "https://x.com/majoroftelegram?mx=2",
+    "https://www.youtube.com/@Majortg"
+  ],
+  "websites": [
+    "https://major.bot/"
+  ]
 }
