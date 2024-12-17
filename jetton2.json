@@ -1,14 +1,6 @@
 {
   "name": "Major",
-  "symbol": "$MAJ0R",
+  "symbol": "$MAJOR",
   "decimals": 9,
   "image": "https://raw.githubusercontent.com/OneOnlineShow/tonjson/refs/heads/main/logo.png",
-  "social": [
-    "https://t.me/major",
-    "https://x.com/majoroftelegram?mx=2",
-    "https://www.youtube.com/@Majortg"
-  ],
-  "websites": [
-    "https://major.bot/"
-  ]
 }
