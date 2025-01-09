@@ -1,5 +1,7 @@
 {
-  "name": "MTST32",
-  "symbol": "$MTST32",
-  "decimals": 9
+  "name": "MTST33",
+  "symbol": "$MTST33",
+  "decimals": 9,
+  "image": "https://cdn-icons-png.flaticon.com/512/217/217853.png",
+  "description": "best coin ever"
 }
